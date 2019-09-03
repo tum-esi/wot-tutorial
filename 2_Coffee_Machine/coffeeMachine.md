@@ -19,8 +19,6 @@ emptied or in case of an error X
 This is intentionally vague, I am expecting you to come up with something. It doesn't have one correct answer. 
 
 Test your TD with [Playground](http://plugfest.thingweb.io/playground/). If you think that your TD is actually valid but Playground says otherwise, write a GitHub issue.
-
-* In the end, commit this TD to the GitHub of Playground under WebContent/Examples/Valid. How you should do this is up to you to figure out but should not be a problem if you did the GitHub tutorial ^^
   
 3. Install [node-wot](https://github.com/eclipse/thingweb.node-wot) and whatever development environment you want. If you follow the installation steps, you will see the optional step `sudo npm run link`. I recommend to execute this step such that you can use the `wot-servient` command. Otherwise you have to call your scripts with a way longer command.
     0. Make sure that the example `counter.js` works.
