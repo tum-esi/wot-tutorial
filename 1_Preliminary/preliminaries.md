@@ -10,8 +10,9 @@
 
 3. Learning GitHub and Git
     1. Finish this tutorial: [GitHub](https://guides.github.com/activities/hello-world/) (~ 30 mins)
-        1. Some help: https://rogerdudler.github.io/git-guide/
-        2. Some more help: http://marklodato.github.io/visual-git-guide/index-en.html
+		1. Pro git documentation: https://git-scm.com/book/en/v2
+        2. Some help: https://rogerdudler.github.io/git-guide/
+        3. Some more help: http://marklodato.github.io/visual-git-guide/index-en.html
 
 4. Learning node.js: Choose one of the following
     1. (Free) Simple tutorial: [Tutorialspoint](https://www.tutorialspoint.com/nodejs/index.htm)
