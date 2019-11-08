@@ -33,8 +33,8 @@
 
    2. JSON Schema: Finish this non-interactive tutorial: [JSON-schema](https://json-schema.org/understanding-json-schema/) (~ 4 hours). This is basically explaining the [specification of JSON Schema](https://json-schema.org/specification.html).
       1. During this tutorial, keep writing small JSON Schemas and validating them with an online JSON Schema validator. [An example](https://www.jsonschemavalidator.net/)
-      2. Write a JSON Schema for 1.1. This means that your JSON in 1.1 should pass this schema but e.g. a JSON with a property that should be boolean but isn't should not pass.
-      3. Same for 1.b
+      2. Write a JSON Schema for the JSON you wrote in 5.i.a. This means that your JSON in 5.i.a. should pass this schema but e.g. a JSON with a property that should be boolean but isn't should not pass.
+      3. Same for 5.i.b
       4. Write a JSON Schema that gives the following validation results:
    
       ```
@@ -47,7 +47,8 @@
         [1,2,3,5] Not OK
 
         [1,1,1,1] Not OK
-   ```
+	
+      ```
 
       5. Write a JSON Schema that gives the following validation results:
 
