@@ -25,8 +25,9 @@ Test your TD with [Playground](http://plugfest.thingweb.io/playground/). If you 
         1. To interact with it, you can use [Postman](https://www.getpostman.com/).
     1. Create the coffee machine server code. Of course, you won't interact with the hardware but it should respond to requests like its TD says and node-wot should produce a TD that is similar to the TD you wrote before. 
 	   1. To interact with it, you can use [Postman](https://www.getpostman.com/).
-	   2. Then test your implementation with [WoT Test Bench](https://github.com/tum-ei-esi/testbench). **Warning** This tool might be a bit buggy. Ask Ege immediately if you see unintended behavior.
+	   2. Then test your implementation with [WoT Test Bench](https://github.com/tum-ei-esi/testbench).
 * node-wot is based on [WoT Scripting API](https://w3c.github.io/wot-scripting-api/), so you can always look there to understand what the functions do.
+* You can also follow the following the tutorial: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTCpKotHhk1_9Qb3H_-dirpOvIVQ89ulwGDFhv2xCWG1UjJnuKr3U8PBQKOggOVppxeN-xvvRL0g0pQ/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/watch?v=wDX45dsD4GM) 
 
 4. Now that you have a Thing working, think of a mashup idea involving this Thing and another one you can think of. Possibilities are endless so keep it simple. This is intentionally left vague. You would need to understand what a mashup is, then decide where the mashup code will work and how many entities should be involved.
 
