@@ -1,6 +1,8 @@
 # Web of Things Tutorial by ESI
 
-In this tutorial you will find two folders. If you think you know Linux, git, JSON Schema and node.js you can start directly at `2_Coffee_Machine`. Otherwise, simply start at `1_Preliminary` and learn all you can!
+In this tutorial you will find two folders. If you think you know Linux, git, JSON Schema and Node.js you can start directly at `2_Coffee_Machine`. Otherwise, simply start at `1_Preliminary` and learn all you can!
+
+If you are a student in TUM, you can also watch the lecture videos of the IoT Remote Lab by asking for access.
 
 ## Contributing
 
