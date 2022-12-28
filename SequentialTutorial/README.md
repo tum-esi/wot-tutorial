@@ -9,11 +9,11 @@ Some answers are also provided as a spoiler text.
 
 The overall design of the tutorial aims at first explaining the preliminary concepts and then go into WoT-specific points:
 
-1. Giving basic, non-technical WoT introduction
-2. Giving links to "everything"
-3. Preliminary concepts that are not developed as part of WoT. What you learn here can be applied elsewhere:
-   1. Explaining JSON and JSON Schema and the meaning of payloads in WoT
-   2. Showing different communication protocols and the overall architecture for networked devices
+1. [Giving basic, non-technical WoT introduction](1-Intro.md)
+2. [Giving links to "everything"](2-Links.md)
+3. [Preliminary concepts that are not developed as part of WoT](3-Preliminaries.md). What you learn here can be applied elsewhere:
+   1. [Explaining JSON and JSON Schema](3.1-JSON-and-Schema.md)
+   2. [Showing different communication protocols and the overall architecture for networked devices](3.2-Protocols.md)
    3. Explaining APIs in the Web
 4. Web of Things concepts:
    1. Explaining WoT Thing Description
