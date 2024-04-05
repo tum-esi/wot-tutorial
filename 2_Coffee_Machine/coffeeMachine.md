@@ -19,7 +19,7 @@ emptied or in case of an error.
 
 This is intentionally vague, it is expected that you to come up with something custom. It doesn't have one correct answer. 
 
-Test your TD with [Playground](http://plugfest.thingweb.io/playground/). If you think that your TD is actually valid but Playground says otherwise, write a GitHub issue for Playground.
+Test your TD with [Playground](https://playground.thingweb.io/). If you think that your TD is actually valid but Playground says otherwise, write a GitHub issue for Playground.
   
 3. Install [node-wot](https://github.com/eclipse/thingweb.node-wot) and whatever development environment you want. If you follow the installation steps, you will see the optional step `sudo npm run link`. I recommend to execute this step such that you can use the `wot-servient` command. Otherwise you have to call your scripts with a way longer command.
     0. Make sure that the example `counter.js` works.
